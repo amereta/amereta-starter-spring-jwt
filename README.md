@@ -1,0 +1,1 @@
+# amereta-starter-spring-jwt
